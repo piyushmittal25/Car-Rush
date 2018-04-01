@@ -3,7 +3,7 @@ import random
 pygame.init()
 
 crash_sound=pygame.mixer.Sound("crashsound.wav")
-pygame.mixer.music.load("shapeofyou.wav")
+pygame.mixer.music.load("MarshmelloAlone.wav")
 
 frame_per_sec=50
 
@@ -154,7 +154,7 @@ def show_high_score_banner():
     game_display.blit(text_surface,text_rect)
 
 def gameloop():
-    pygame.mixer.music.play()
+    pygame.mixer.music.play(-1)
 
     x=game_container_width*0.45
     y=window_height*0.79
