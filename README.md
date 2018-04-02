@@ -1,7 +1,7 @@
 # Car-Rush
-       A simple game and set new high scores by eliminating maximum obstacles hitting the car.
+       A simple game in which you set new high scores by dodging maximum obstacles.
 <h3><strong>About</strong></h3>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp  It is a really simple game with the objective to avoid as many of the obstacles as you can in which difficulty level increasing with time.The farther you get,higher you score.So, try and beat each other's high scores.</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp  It is a really simple game with the objective to avoid as many of the obstacles as you can in which difficulty level increasing with time. The farther you get, higher you score.So, try and beat each other's high scores.</p>
 <h3><strong>Controls</strong></h3>
 <p>Controls are very simple as well and also very intutive.Those are as follows:</p>                                            <ul>      
 <li>Right control key to move right.</li>                                                                                       <li>Left control key to move left.</li>                                                                                         <li>Up control key to move up.</li>                                                                                           
